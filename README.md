@@ -2,6 +2,14 @@ src → all the code
 
 dist → all the static assets
 
+#### Main Concepts to Understand
+
+- Entry point
+- Output point
+- Loaders
+- Plugins
+- Mode
+
 One of the first modules to install
 
 ```jsx
