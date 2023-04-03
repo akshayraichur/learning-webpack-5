@@ -1,0 +1,1 @@
+{"version":3,"file":"ptm8670beedc4f341f20aeb.js","mappings":";;;;;AAAAA,OAAO,CAACC,GAAG,CAAC,UAAU,CAAC,C","sources":["webpack://learning-webpack/./src/ptm/index.js"],"sourcesContent":["console.log(\"hi there\");\n"],"names":["console","log"],"sourceRoot":""}
