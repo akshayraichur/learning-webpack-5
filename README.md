@@ -41,7 +41,8 @@ const HtmlWebpackPlugin = require("html-webpack-plugin");
 {
 	plugins: [new HtmlWebpackPlugin({
 			title: 'Webpack Tutorial',
-			filename: 'index.html'
+			filename: 'index.html',
+			template: "src/template.html",
 		})
 	]
 }
